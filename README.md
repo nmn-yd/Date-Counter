@@ -1,8 +1,15 @@
-# React + Vite
+# Date Counter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this We can find the date after n day or before n day , it has counter with which we can find date we can also increase counter not by one but n times using another counter that is steps.
+Suppose steps is 5 then counter will increase 5 times on each increment of a counter.
 
-Currently, two official plugins are available:
+Screenshot :
+![Screenshot 2023-07-22 201450](https://github.com/nmn-yd/Date-Counter/assets/97431919/cb28560d-6729-41e2-bf22-8a6904d9c5de)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+How To Run : 
+Just download the zip file.
+open folder in vscode. 
+open terminal in vscode.
+type command : npm install
+then npm run dev and run it on local host.
